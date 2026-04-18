@@ -206,6 +206,10 @@ Every session should leave the system easier to understand than before.
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776472413475.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776472413475.jpg)
+
+---
+
 # The Mythic Engineering Mindset
 
 This style works best when you adopt a few core mental habits.
