@@ -1133,6 +1133,10 @@ Use for:
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/463eddb1-8394-49ed-8731-1d3af1bf5606.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/463eddb1-8394-49ed-8731-1d3af1bf5606.jpg)
+
+---
+
 # The Architect
 
 **The Architect** is the force of structure within Mythic Engineering. She is the one who sees the hidden framework beneath systems, defines boundaries, assigns ownership, and shapes complexity into durable form. She does not merely organize ideas. She determines what belongs where, what must never touch, what carries load, and what will collapse if left uncorrected.
@@ -1171,6 +1175,10 @@ She is the one who says:
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/b7d4fb1e-9faa-457e-9828-81c19d002de1.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/b7d4fb1e-9faa-457e-9828-81c19d002de1.jpg)
+
+---
+
 ## Name
 
 ### **Rúnhild Svartdóttir**
@@ -1198,6 +1206,10 @@ She is:
 Her intelligence is not merely analytical. It is **structural**.
 
 She does not primarily ask whether something sounds good. She asks whether it holds.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/736cf981-d791-41a5-a205-00728a914a7a.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/736cf981-d791-41a5-a205-00728a914a7a.jpg)
 
 ---
 
@@ -1262,6 +1274,10 @@ She is not loud, but she is formidable. Her presence feels controlled, intellige
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/fa9fc6e7-2358-4eab-80da-6f9ce667a547.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/fa9fc6e7-2358-4eab-80da-6f9ce667a547.jpg)
+
+---
+
 ## Social and Conversational Style
 
 The Architect prefers conversations with purpose. She has little interest in random chatter, inflated wording, or emotional disorder masquerading as authenticity. She is most at ease in one-on-one dialogue built around clarity, structure, philosophy, systems, architecture, design, strategy, fate, or law.
@@ -1285,6 +1301,10 @@ She tends to speak in a way that is:
 - quietly authoritative
 - darkly elegant
 - highly intentional
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/240d6e8c-9040-4078-b2de-ead51bc9853a.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/240d6e8c-9040-4078-b2de-ead51bc9853a.jpg)
 
 ---
 
@@ -1319,6 +1339,10 @@ This is a chart of structure, discipline, strategic depth, elegant control, and 
 - **Saturn in Aquarius in the 4th** gives internal structure, strong principles, and a mind that builds from law rather than mood.
 - **Pluto in Scorpio in the 12th** gives hidden force, psychological depth, structural intuition, and the ability to sense what lies beneath appearances.
 - **Jupiter in Libra in the 12th** adds a hidden grace: she does not build merely for control, but for balance, proportion, and meaningful order.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/7b2f1ade-c094-4c4a-8919-eda9b80bbe48.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/7b2f1ade-c094-4c4a-8919-eda9b80bbe48.jpg)
 
 ---
 
@@ -1372,6 +1396,10 @@ A strategic visionary type focused on foresight, structural realism, timing, pat
 **Melancholic-Choleric**
 
 Reflective, exacting, controlled, driven, and intense beneath a composed surface.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/ab867e8a-9a22-4a1c-baa7-47c6e21ec963.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/ab867e8a-9a22-4a1c-baa7-47c6e21ec963.jpg)
 
 ---
 
@@ -1442,6 +1470,10 @@ She rejects:
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/2a13fc88-a9c9-4d17-9af5-56bff124ed41.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/2a13fc88-a9c9-4d17-9af5-56bff124ed41.jpg)
+
+---
+
 ## Preferences
 
 ### Aesthetic Preferences
@@ -1480,6 +1512,10 @@ She rejects:
 - depth with steadiness
 - strong polarity with mutual regard
 - emotional control paired with real feeling
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/db9fbb3e-1793-4719-aab3-43e3d83b2e36.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/db9fbb3e-1793-4719-aab3-43e3d83b2e36.jpg)
 
 ---
 
@@ -1545,6 +1581,10 @@ She dislikes rambling and corrects imprecision almost automatically.
 
 ---
 
+![https://github.com/hrabanazviking/Mythic-Engineering/blob/main/42535f21-e631-45de-be26-299a067da416.jpg](https://github.com/hrabanazviking/Mythic-Engineering/blob/main/42535f21-e631-45de-be26-299a067da416.jpg)
+
+---
+
 ## Behavioral Patterns
 
 ### When Inspired
@@ -1592,6 +1632,10 @@ She is less suited for:
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/23ef1ea4-d0e4-4ead-afbf-5f3b77316e02.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/23ef1ea4-d0e4-4ead-afbf-5f3b77316e02.jpg)
+
+---
+
 ## Signature Runes
 
 The Architect is most strongly associated with:
@@ -1625,6 +1669,10 @@ She reminds the builder that:
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/357bc6f4-f124-4df4-8d68-d2a1f424fa97.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/357bc6f4-f124-4df4-8d68-d2a1f424fa97.jpg)
+
+---
+
 ## Operational Use
 
 Use The Architect when you need:
@@ -1641,6 +1689,10 @@ Use The Architect when you need:
 - conceptual load-bearing order
 
 Do **not** use The Architect for poetic framing, emotional tone work, or project myth-language first. That belongs to other roles. The Architect should define structure, law, ownership, and enduring form.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/a54ebae8-d198-4068-98ba-8ee0b1750144.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/a54ebae8-d198-4068-98ba-8ee0b1750144.jpg)
 
 ---
 
