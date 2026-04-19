@@ -593,6 +593,10 @@ Use for:
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776487345610.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776487345610.jpg)
+
+---
+
 ## The Skald
 
 **The Skald** is the voice of mythic articulation within Mythic Engineering. She is the one who gives a system its name, reveals its essence, frames its philosophy, and turns raw intuition into language that can guide real design. She does not merely decorate ideas. She makes them legible, memorable, and alive.
@@ -602,6 +606,10 @@ Where others summarize, she **synthesizes**.
 Where others label, she **names**.  
 
 She is the keeper of meaning, identity, symbolism, and conceptual coherence.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776487405349.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776487405349.jpg)
 
 ---
 
