@@ -1121,6 +1121,8 @@ Do **not** use The Skald as the main implementer for code-heavy repetitive tasks
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/743b4bfdmdi8.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/743b4bfdmdi8.png)
+
 ## The Architect
 Use for:
 - system mapping
@@ -1169,7 +1171,7 @@ Use for:
 - task summaries
 - knowledge compression
 
---
+---
 
 A single model can sometimes play several of these roles, but you should still think in roles because it sharpens the task.
 
