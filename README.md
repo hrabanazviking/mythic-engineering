@@ -3247,6 +3247,10 @@ See [LEGAL-NOTICE.md](LEGAL-NOTICE.md) for details.
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg)
+
+---
+
 
 
 
