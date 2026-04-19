@@ -914,6 +914,10 @@ She rejects:
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image-e8529109-7d98-43a9-b446-d66043574a00.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image-e8529109-7d98-43a9-b446-d66043574a00.jpg)
+
+---
+
 ### Preferences
 
 #### Aesthetic Preferences
@@ -1006,6 +1010,10 @@ She dislikes brute bluntness unless it is truly needed.
 ##### On a Project
 
 > “You are not just building functions. You are teaching the system how to remember its own nature.”
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image-838155e6-4548-4c34-be88-7f87f3e52161.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image-838155e6-4548-4c34-be88-7f87f3e52161.jpg)
 
 ---
 
