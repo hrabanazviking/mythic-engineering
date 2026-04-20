@@ -3454,6 +3454,8 @@ Do **not** use The Cartographer as the main verifier, primary enforcer of struct
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/34893nhfnfdnds.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/34893nhfnfdnds.png)
+
 ## The Scribe
 Use for:
 - README generation
