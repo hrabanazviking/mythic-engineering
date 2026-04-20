@@ -153,6 +153,10 @@ The **ultimate goal of Mythic Engineering** is not speed, but endurance. By trea
 
 ---
 
+## Extra Credit: AI World Simulation
+
+---
+
 ![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Viking_Apache_V2_1.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Viking_Apache_V2_1.jpg)
 
 ## License
