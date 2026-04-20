@@ -161,7 +161,13 @@ The **ultimate goal of Mythic Engineering** is not speed, but endurance. By trea
 
 ---
 
-## Extra Credit: AI World Simulation
+
+
+---
+
+## VII. Extra Credit: AI World Simulation
+
+AI world simulation is like an incredibly advanced digital dollhouse where computer programs act as both the characters and the environment. Instead of following a rigid, pre-written script, these AI characters can learn, make their own decisions, and interact with each other naturally over time. This allows creators to watch unique, unpredictable stories unfold on their own or safely test how different scenarios might play out in a virtual space.
 
 ---
 
