@@ -2873,6 +2873,8 @@ Do **not** use The Auditor as the main visionary, primary builder, or first-pass
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/334j324k24gdf.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/334j324k24gdf.png)
+
 ## The Cartographer
 Use for:
 - file maps
