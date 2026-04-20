@@ -6,6 +6,12 @@
 
 ![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/ndfnfnd8348383.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/ndfnfnd8348383.png)
 
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Mystic_Engineerrs_Codex_Vibe_Coding_101-3.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Mystic_Engineerrs_Codex_Vibe_Coding_101-3.png)
+
+---
+
 ## Executive Summary
 
 **"Vibe Coding"** is a method of software creation where human intention and "vibe" are translated into digital architecture by artificial intelligence. Moving away from the traditional "Machine Perspective," which views code as a collection of dead parts, the Codex advocates for **"Mythic Engineering,"** a "Garden Perspective" that treats digital projects as living systems.
