@@ -96,6 +96,10 @@ The **creation begins** with the Vision Scroll (`SYSTEM_VISION.md`), a plain-tex
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/5Great_Trials_of_Vibe_Coding.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/5Great_Trials_of_Vibe_Coding.png)
+
+---
+
 ## III. The Five Great Trials of Vibe Coding
 
 **Common pitfalls** that lead to project collapse:
