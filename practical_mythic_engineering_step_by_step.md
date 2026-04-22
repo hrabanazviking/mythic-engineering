@@ -83,6 +83,8 @@ Instead of one generic AI, you call on one of these six clearly defined roles. E
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image-e8529109-7d98-43a9-b446-d66043574a00.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image-e8529109-7d98-43a9-b446-d66043574a00.jpg)
+
 #### 1. **Skald (The Visionary Poetess)**  
    Focus: High-level vision, philosophy, elegant naming, framing concepts.  
    Use when: Starting a new feature, naming modules, writing project philosophy.  
