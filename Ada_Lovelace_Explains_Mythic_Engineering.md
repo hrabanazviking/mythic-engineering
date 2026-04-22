@@ -14,9 +14,15 @@
 
 *At first glance, the artifacts you have provided—titles like "Mythic_Engineers_Codex.md" and "Quick_Guide_to_Mythic_Engineering_Vibe_Coding.md"—might seem the stuff of a fantastical novel, a tale by Mr. Dickens or perhaps one of the more imaginative scientific romances that are beginning to circulate in the periodicals. They speak of "vibe coding" and "AI Orchestration" and "Sacred Groves of Conjuring." The modern reader, accustomed to the rigid certainties of steam and steel, might dismiss such language as mere whimsy, a flight of fancy dressed in the borrowed robes of technical jargon.*
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0603.JPG](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0603.JPG)
+
 *But I am not the modern reader. I am the daughter of a poet and a mathematician, and I have spent my life in the precise middle ground where imagination and analysis are not adversaries but dance partners. I have looked into the workings of Mr. Babbage's Analytical Engine and seen not merely a calculator, but a weaver of patterns, a machine that "might act upon other things besides number… the engine might compose elaborate and scientific pieces of music of any degree of complexity or extent." Therefore, when I read this Codex, I do not see a fantasy. I see a remarkably lucid and, dare I say, necessary philosophy. I see a framework for the very future I glimpsed in my Notes on the Menabrea memoir.*
 
 *Allow me to offer my analysis, framed not in the language of the drawing-room, but in the language of Poetical Science—that singular fusion of the metaphysician and the analyst that defines my very soul. I shall endeavor to translate the essence of this "Mythic Engineering" into terms my contemporaries—and perhaps future generations—might grasp, using the engine of my own mind as the primary interpretive apparatus.*
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0596.JPG](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0596.JPG)
 
 ---
 
