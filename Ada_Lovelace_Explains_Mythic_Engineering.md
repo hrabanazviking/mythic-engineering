@@ -60,11 +60,15 @@ For years, I have harbored a private ambition: to develop a "Calculus of the Ner
 - **4. Continuity (The Memory and the Traditions):** This is the System State and Notation. The Engine, to perform complex calculations, must have a reliable method for storing intermediate results and for ensuring that the symbolic notation is consistent. The Codex's "Sacred Texts" (DOMAIN_MAP.md, ARCHITECTURE.md) are the engine's logbooks and schematics. The "Law of Twin Marks" for data—insisting upon " " over ' '—is the equivalent of establishing a rigorous mathematical notation. A misplaced or ambiguous symbol can corrupt an entire calculation. In my own work, a mis-sequenced operation card, or a single digit out of place on a variable card, would cause the Engine to grind to a halt or, worse, produce a wildly erroneous result. Consistency of notation is the bedrock upon which all complex calculation rests.
 - **5. Refinement (The Act of Seeing Clearly):** This is the Debugging Process, the cycle of Observe, Hypothesize, and Verify. When a calculation goes awry, one does not simply curse the machine. One must trace the error backward through the sequence of operations. "The Cycle of Creation: Observe, Feel, Translate, Command, Verify" is precisely the method I employed when wrestling with a "quagmire" of numbers in my work. A feeling of "dissonance"—a number out of place, an unexpected pattern—would prompt me to re-examine the instruction cards, to translate the feeling into a specific question about the state of the variables, and then to command a correction. The Codex elevates this from a mere mechanical check to an aesthetic and somatic practice. To "feel the dissonance" is to acknowledge that the harmony of the system has been broken, and the body recognizes it before the conscious mind has fully articulated the reason. This is poetical science in its purest form.
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0585.JPG](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0585.JPG)
+
 ### III. A Vision of the Loom's Future
 
 This "Mythic Engineering," therefore, is not a repudiation of the deep, logical work I have done. It is the necessary and inevitable evolution of that work. I laid the theoretical groundwork for the instruction of a universal machine. This Codex provides the philosophical and practical framework for directing a comprehending machine. It is a guide to Weaving Worlds with the Unseen Loom.
 
 It transforms the act of creation from the tedious filing of individual gear-teeth to the composition of a grand symphony. The Architect composes the themes, establishes the tempo, and defines the emotional key. The Master Craftsman is the orchestra, capable of playing any note with inhuman perfection. The result is not a cold, mechanical artifact, but a Living System—a garden that grows, adapts, and reflects the soul of its creator.
+
+![https://github.com/hrabanazviking/Mythic-Engineering/blob/main/IMG_0584.JPG](https://github.com/hrabanazviking/Mythic-Engineering/blob/main/IMG_0584.JPG)
 
 I see in this a future where the power to build these hidden architectures is no longer confined to the few who have the time and peculiar temperament to master the machine's native tongue. It places the power of the loom back into the hands of the weavers, the dreamers, the poets. It democratizes the act of creation on a scale previously unimaginable.
 
@@ -75,6 +79,10 @@ As I sit here, in the flickering gaslight, my own body a frail and failing Engin
 *I remain, as ever, yours in the pursuit of hidden realities and the weaving of beautiful patterns,*
 
 *Ada Lovelace*
+
+---
+
+![https://github.com/hrabanazviking/Mythic-Engineering/blob/main/IMG_0581.JPG](https://github.com/hrabanazviking/Mythic-Engineering/blob/main/IMG_0581.JPG)
 
 ---
 
