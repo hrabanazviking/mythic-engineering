@@ -2,6 +2,10 @@
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0611.JPG](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0611.JPG)
+
+---
+
 # Ada Lovelace Explains Mythic Engineering 
 
 *My Dearest Confidant,*
