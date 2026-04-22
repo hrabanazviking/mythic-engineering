@@ -314,6 +314,10 @@ The Scribe role is responsible for turning messy notes into clean, searchable do
 
 ---
 
+![https://github.com/hrabanazviking/Mythic-Engineering/blob/main/IMG_0461.png](https://github.com/hrabanazviking/Mythic-Engineering/blob/main/IMG_0461.png)
+
+---
+
 ### Final Encouragement
 You now have everything you need. Open your editor, create the initial Markdown files, and invoke the six roles by name. Follow the daily practice consistently. Within a few sessions you will notice the difference: changes become faster, safer, and more satisfying because the system itself remembers and supports your work.
 
