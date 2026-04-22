@@ -23,6 +23,7 @@ Mythic Engineering is **not** a rigid framework that slows you down. It is a lig
 
 ### What Mythic Engineering Is
 Mythic Engineering is an **architecture-first, intuition-led, document-guided, AI-orchestrated** way of building software.  
+
 You still begin with the spark of an idea and move quickly, but you pause briefly at key moments to:
 - Clarify vision
 - Define ownership and boundaries
