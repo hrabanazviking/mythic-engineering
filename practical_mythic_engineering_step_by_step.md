@@ -324,7 +324,7 @@ You now have everything you need. Open your editor, create the initial Markdown 
 Mythic Engineering turns software development from a series of isolated efforts into a coherent, continuously improving living system.
 
 With clarity, precision, and dedication to sustainable craft,  
-Jenny Harper • Olivia Hartwell • Zora Mitchell  
+Volmarr Wyrd • Jenny Harper • Olivia Hartwell • Zora Mitchell  
 
 ---
 
