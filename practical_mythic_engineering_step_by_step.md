@@ -47,6 +47,10 @@ Result: A codebase that stays readable, expandable, and consistent—no matter h
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0446.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0446.png)
+
+---
+
 ### Why This Approach Matters
 Traditional creative coding feels fast at the beginning but often leads to:
 - Logic duplicated across files
