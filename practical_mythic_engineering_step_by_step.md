@@ -97,6 +97,10 @@ These are the practical rules that guide every decision. Each includes a brief e
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0449.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0449.png)
+
+---
+
 ### The Six Mythic Roles (Your Specialized AI Assistants)
 Instead of one generic AI, you call on one of these six clearly defined roles. Each has a distinct personality, strengths, and typical use cases. Use the sample invocation prompts exactly as written or adapt them slightly.
 
